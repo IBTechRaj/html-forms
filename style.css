@@ -24,9 +24,15 @@ p {
 }
 
 #login-form{
+	margin: 0 auto;
+	width: 30%;
+	text-align: left;
 	background-color: white;
 height: 400px;
 
+}
+#form-text{
+	text-align: center;
 }
 #footer{
 background-color: #ECEEF1;
