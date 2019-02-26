@@ -1,0 +1,37 @@
+#top-bar{
+background-color: #FCEEF1;
+height: 50px;
+text-align: right;
+/*margin-right: 150px;*/
+}
+#header{
+	background-color: #ECEEF1;
+height: 100px;
+}
+
+#sign-button{
+	margin-top: 0;
+	width: 100px;
+	height: 50px;
+	float: right;
+}
+p {
+	margin-right: 150px;
+}
+
+#login-form{
+	background-color: white;
+height: 400px;
+
+}
+#footer{
+background-color: #ECEEF1;
+height: 50px;
+}
+
+#intuit{
+margin: 0 auto;
+}
+.other-images{
+
+}
