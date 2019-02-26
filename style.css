@@ -1,12 +1,16 @@
 #top-bar{
-background-color: #FCEEF1;
 height: 50px;
 text-align: right;
 /*margin-right: 150px;*/
 }
-#header{
+body{
 	background-color: #ECEEF1;
+}
+#header{
+background-color: #ECEEF1;
 height: 100px;
+margin-left: 40%;
+margin-right: 40%;
 }
 
 #sign-button{
@@ -30,8 +34,13 @@ height: 50px;
 }
 
 #intuit{
-margin: 0 auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+#other-img{
+	margin: 0 30% 0 30%;
 }
 .other-images{
+	
 
 }
