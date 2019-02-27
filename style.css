@@ -5,6 +5,8 @@ text-align: right;
 }
 body{
 	background-color: #ECEEF1;
+	font-family: AvenirNext,Avenir,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
 }
 #header{
 background-color: #ECEEF1;
@@ -92,7 +94,7 @@ margin-top: 20px;
 	margin-right: auto;
 }
 #other-img{
-	width: 250px;
+	width: 300px;
 	padding-bottom: 10px;
 
 
@@ -110,7 +112,7 @@ margin-top: 20px;
 margin-bottom: -10px;
 }
 #other-img p{
-	margin-right: 5px;
+	margin-right: 2px;
 }
 
 #mail,  #password{
@@ -118,15 +120,14 @@ margin-bottom: -10px;
 	height: 30px;
 	margin: 5px 25px;
 	margin-bottom: 25px;
-	border-radius: 5px;
-
+	/* border-radius: 2px; */
 }
 #phone-1{
 	width: 80%;
 	height: 30px;
 	margin: 5px 25px;
 	margin-bottom: 0px;
-	border-radius: 5px;
+	/* border-radius: 5px; */
 }
 
 #create-button{
@@ -139,6 +140,9 @@ margin-bottom: -10px;
 	border-radius: 5px;
 
 
+}
+#phone-label-1{
+	font-size: 12px;
 }
 #mail-label, #phone-label, #phone-label-1, #password-label {
 	margin-left: 7%;
@@ -153,10 +157,14 @@ margin-bottom: -10px;
 	height: 40px;
 	width: 100%;
 }
+#terms a {
+	text-decoration: none;
+	color: blue;
+}
 #terms p{
 	padding-top: 10px;
 	text-align: center;
-	font-size: 14px;
+	font-size: 12px;
 }
 
 #footer p{
