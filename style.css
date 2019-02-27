@@ -34,8 +34,26 @@ margin-right: 40%;
 	color: blue;
 	margin-top: 5px;
 }
-
-
+form{
+	margin-top: 5%;
+}
+#form-text a{
+	text-decoration: none;
+	color: blue;
+}
+#form-text h2{
+	margin: 0 !important;
+}
+#form-text #first{
+	padding-top: 5%;
+	padding-bottom: 1%;
+}
+#form-text p{
+	margin: 0 !important;
+}
+#form-text #second{
+	padding-bottom: 5%;
+}
 #login-form{
 	margin: 0 auto;
 	width: 30%;
@@ -49,11 +67,15 @@ border: solid 1px #C6CFCF;
 	text-align: center;
 }
 
+
 #bottom-text{
-	margin: 3px 10px;
+	margin: 5% 5%;
 	font-style: italic;
 	text-align: center;
 	font-size: 14px;
+}
+#bottom-text p{
+	margin: 0 !important;
 }
 #bottom-text a{
 	text-decoration: none;
@@ -65,7 +87,7 @@ height: 50px;
 
 
 #intuit{
-	margin-left: auto;
+	margin-left: 30%;
 	margin-right: auto;
 }
 #other-img{
