@@ -19,7 +19,7 @@ margin-right: 40%;
 	height: 50px;
 	float: right;
 }
-p {
+#top-bar p {
 	margin-right: 150px;
 }
 
@@ -28,10 +28,16 @@ p {
 	width: 30%;
 	text-align: left;
 	background-color: white;
-height: 400px;
+height: 80%;
 
 }
 #form-text{
+	text-align: center;
+}
+
+#bottom-text{
+	margin: 3px 10px;
+	font-style: italic;
 	text-align: center;
 }
 #footer{
@@ -49,4 +55,36 @@ height: 50px;
 .other-images{
 	
 
+}
+#mail, #phone, #password{
+	width: 80%;
+	height: 30px;
+	margin: 5px 25px;
+	margin-bottom: 20px;
+}
+#create-button{
+	width: 80%;
+	height: 30px;
+	margin: 5px 25px;
+}
+#mail-label, #phone-label, #password-label{
+	margin-left: 7%;
+
+}
+
+#terms{
+	background-color: grey;
+	
+	height: 40px;
+	width: 100%;
+}
+#terms p{
+	padding-top: 10px;
+	text-align: center;
+}
+
+#footer p{
+	margin: 3px 10px;
+	font-style: italic;
+	text-align: center;
 }
