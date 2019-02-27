@@ -83,6 +83,7 @@ border: solid 1px #C6CFCF;
 #footer{
 background-color: #ECEEF1;
 height: 50px;
+margin-top: 20px;
 }
 
 
@@ -93,6 +94,7 @@ height: 50px;
 #other-img{
 	width: 250px;
 	padding-bottom: 10px;
+
 
 }
 #other-img p{
@@ -105,16 +107,28 @@ height: 50px;
 }
 .other-images{
 	margin-top: 20px;
-
+margin-bottom: -10px;
 }
-#mail, #phone, #password{
+#other-img p{
+	margin-right: 5px;
+}
+
+#mail,  #password{
 	width: 80%;
 	height: 30px;
 	margin: 5px 25px;
-	margin-bottom: 20px;
+	margin-bottom: 25px;
 	border-radius: 5px;
 
 }
+#phone-1{
+	width: 80%;
+	height: 30px;
+	margin: 5px 25px;
+	margin-bottom: 0px;
+	border-radius: 5px;
+}
+
 #create-button{
 	width: 80%;
 	font-size: 17px;
@@ -126,7 +140,7 @@ height: 50px;
 
 
 }
-#mail-label, #phone-label, #password-label{
+#mail-label, #phone-label, #phone-label-1, #password-label {
 	margin-left: 7%;
 
 }
