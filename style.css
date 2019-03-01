@@ -1,0 +1,181 @@
+#top-bar{
+height: 50px;
+text-align: right;
+/*margin-right: 150px;*/
+}
+body{
+	background-color: #ECEEF1;
+	font-family: AvenirNext,Avenir,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+}
+#header{
+background-color: #ECEEF1;
+height: 100px;
+text-align: center;
+
+/*margin-left:  auto;*/
+}
+
+#sign-button{
+	margin-top: 0;
+	margin-left: 5px;
+	width: 100px;
+	height: 35px;
+	float: right;
+	background-color: #0077C5;
+	color: white;
+	border-radius: 7px;
+}
+#top-bar p {
+	margin-right: 140px;
+	font-size: 13px;
+	padding-bottom: 5px;
+	margin: 0 !important;
+}
+#top-bar p a {
+	text-decoration: none;
+	color: blue;
+	margin-top: 5px;
+
+}
+form{
+	margin-top: 5px;
+}
+#form-text a{
+	text-decoration: none;
+	color: blue;
+}
+#form-text h2{
+	margin: 0 !important;
+}
+#form-text #first{
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+#form-text p{
+	margin: 0 !important;
+}
+#form-text #second{
+	padding-bottom: 5%;
+}
+#login-form{
+	margin: 0 auto;
+	width: 30%;
+	text-align: left;
+	background-color: white;
+height: 80%;
+border: solid 1px #C6CFCF;
+
+}
+#form-text{
+	text-align: center;
+}
+
+
+#bottom-text{
+	margin: 5px 5px;
+	font-style: italic;
+	text-align: center;
+	font-size: 14px;
+}
+#bottom-text p{
+	margin: 0 !important;
+}
+#bottom-text a{
+	text-decoration: none;
+}
+#footer{
+background-color: #ECEEF1;
+height: 50px;
+margin-top: 20px;
+}
+
+
+
+	
+#other-img{
+	/*width: 300px;
+	margin: 5px auto;*/
+	padding-bottom: 10px;
+	display: inline-block;
+
+
+}
+#other-img p{
+	font-size: 15px;
+	margin-bottom: 20px;
+	padding-top: 10px;
+	display: inline-block;
+	padding-bottom: 10px;
+
+}
+.other-images{
+	margin-top: 20px;
+margin-bottom: -10px;
+}
+#other-img p{
+	margin-right: 2px;
+}
+
+#mail,  #password{
+	width: 80%;
+	height: 30px;
+	margin: 5px 25px;
+	margin-bottom: 25px;
+	/* border-radius: 2px; */
+}
+#phone-1{
+	width: 80%;
+	height: 30px;
+	margin: 5px 25px;
+	margin-bottom: 0px;
+	/* border-radius: 5px; */
+}
+
+#create-button{
+	width: 80%;
+	font-size: 17px;
+	height: 40px;
+	margin: 5px 35px;
+	background-color: #0077C5;
+	color: white;
+	border-radius: 5px;
+
+
+}
+#phone-label-1{
+	font-size: 12px;
+}
+#mail-label, #phone-label, #phone-label-1, #password-label {
+	margin-left: 25px;
+
+}
+
+#terms{
+	background-color:#ECEEF1 ;
+	border-width: 0px 1px 1px 1px;
+	/*border-color: grey;
+	border-style: solid;*/
+	height: 40px;
+	width: 100%;
+}
+#terms a {
+	text-decoration: none;
+	color: blue;
+}
+#terms p{
+	padding-top: 10px;
+	text-align: center;
+	font-size: 12px;
+}
+
+#footer p{
+	margin: 3px 10px;
+	text-align: center;
+	font-size: 12px;
+}
+#footer p a{
+	text-decoration: none;
+	margin: 0 2px;
+	color: black;
+}
